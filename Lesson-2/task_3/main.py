@@ -38,4 +38,3 @@ with open("file.yaml", 'r', encoding='utf-8') as f_out:
 
 print(DATA_IN == DATA_OUT)
 
-

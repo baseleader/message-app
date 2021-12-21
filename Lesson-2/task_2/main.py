@@ -73,4 +73,3 @@ def write_order_to_json(item, quantity, price, buyer, date):
 write_order_to_json('printer', '10', '6700', 'Ivanov I.I.', '24.09.2017')
 write_order_to_json('scaner', '20', '10000', 'Petrov P.P.', '11.01.2018')
 write_order_to_json('computer', '5', '40000', 'Sidorov S.S.', '2.05.2019')
-
