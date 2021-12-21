@@ -3,7 +3,6 @@ import re
 
 
 def get_data():
-    """Извлечение данных из txt"""
 
     os_prod_list = []
     os_name_list = []
